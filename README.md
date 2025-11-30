@@ -1,0 +1,1 @@
+The Library Management System (LMS) is a web-based application designed to simplify and automate the process of managing library operations. Built using HTML, CSS, JavaScript, PHP, and the Laravel framework, and hosted on XAMPP, this system provides both users and administrators with an efficient platform for book management, borrowing, and record handling.
